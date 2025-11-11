@@ -3,7 +3,7 @@ import os
 app = Flask(__name__)
 
 data = [
-    {"id": 1, "name": "Sanket"},
+    {"id": 1, "name": "Samruddhi"},
     {"id": 2, "name": "Student"}
 ]
 
